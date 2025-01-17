@@ -15,7 +15,8 @@ body {
     border-radius: 8px;
 }
 
-.logo i {
+.logo {
+    background: url("./circle-cropped (1).png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
